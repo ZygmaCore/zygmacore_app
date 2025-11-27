@@ -62,8 +62,8 @@ This app serves as a foundation for branding screens, onboarding flows, or futur
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AlhikamWarsawa/icon-app.git
-cd icon-app
+git clone https://github.com/ZygmaCore/zygmacore_app.git
+cd zymacore_app
 ```
 
 ### 2️⃣ Open project in Xcode
