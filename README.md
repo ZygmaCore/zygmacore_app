@@ -1,6 +1,7 @@
 <h1 align="center">ZygmaCore App</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
   <img src="https://img.shields.io/badge/platform-iOS-blue.svg" />
   <img src="https://img.shields.io/badge/interface-Storyboard-green.svg" />
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" />
