@@ -69,27 +69,13 @@ cd zymacore_app
 ### 2️⃣ Open project in Xcode
 
 ```
-open ZygmaCoreApp.xcodeproj
+open zygmacore.xcodeproj
 ```
 
 ### 3️⃣ Run on Simulator or Physical Device
 
 ```bash
 ⌘ + R
-```
-
----
-
-## 📂 Project Structure
-
-```
-icon-app/
-│── Assets.xcassets/   # App icons & ZygmaCore logo
-│── Base.lproj/
-│    └── LaunchScreen.storyboard (optional)
-│── Main.storyboard     # Main screen layout
-│── ViewController.swift
-│── Info.plist
 ```
 
 ---
